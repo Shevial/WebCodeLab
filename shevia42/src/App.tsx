@@ -10,7 +10,7 @@ function App() {
       <Routes>
 
           <Route path="/" element={<MainMenu/>}/>
-          {/*<Route path="/shell/shell00" element={<Shell00/>}/>
+          <Route path="/shell/shell00" element={<Shell00/>}/>
           {/*<Route path="/c/c00" element={<C00/>}/> */}
       </Routes>
 
